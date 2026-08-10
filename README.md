@@ -2,6 +2,8 @@
 
 这是最早接触也是最喜欢写代码的时候，还是要纪念一下吧。
 
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/SovietPower.svg)](https://codeforces.com/profile/SovietPower) [![Codeforces](https://badges.joonhyung.xyz/codeforces/SovietPower_.svg)](https://codeforces.com/profile/SovietPower_)
+
 **OI：2017.3 ~ 2019.5**
 
 **ACM：2020.9 ~ 2021.5**
